@@ -1,0 +1,25 @@
+
+
+.btn{
+
+    background: transparent;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 0.5rem 1rem;
+    margin: 0.7rem;
+    cursor: pointer;
+
+}
+
+.success{
+
+
+    background-color: rgb(19, 213, 145);
+
+}
+
+.danger{
+
+    background-color: rgb(243, 65, 41);
+}

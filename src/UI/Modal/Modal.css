@@ -1,0 +1,17 @@
+
+
+.modal{
+
+    position: fixed;
+    z-index: 999;
+    background-color: #e2d8d8;
+    border: 1px solid #aea8a8;
+    border-radius: 5px;
+    padding: 1rem;
+    top: 15%;
+    left: 30%;
+    width: 25%;
+    text-align: center;
+
+    transition: all 1s ease-out;
+}

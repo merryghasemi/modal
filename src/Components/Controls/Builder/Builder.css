@@ -1,0 +1,45 @@
+
+
+.builder{
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+
+    padding: 1rem;
+
+    margin-top: 5%;
+
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.builder button{
+
+
+
+    display: block;
+    background: rgb(35, 150, 35);
+    padding: 6px;
+    border: none;
+    border-radius: 6px;
+    width: 90px;
+
+    margin: 0rem 1rem;
+
+ 
+}
+
+.builder button:hover{
+
+    background-color: rgb(28, 154, 112);
+
+    cursor: pointer;
+}
+
+.builder div{
+
+    font-weight: bold;
+}
